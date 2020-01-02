@@ -1,0 +1,22 @@
+{
+  "name": "akite",
+  "version": "1.0.0",
+  "description": "akite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nightink/akite.git"
+  },
+  "keywords": [
+    "akite"
+  ],
+  "author": "nightink",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nightink/akite/issues"
+  },
+  "homepage": "https://github.com/nightink/akite#readme"
+}
